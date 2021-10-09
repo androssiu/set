@@ -2,7 +2,7 @@
 	{
 		"phrase": "Cluster spawn",
 		"comment": "In-game point text",
-		"translation": "Sitios de aparición"
+		"translation": "Aparición grupal"
 	},
 	{
 		"phrase": "Damage",
@@ -157,7 +157,7 @@
 	{
 		"phrase": "Contesting",
 		"comment": "In-game point text",
-		"translation": "Capturando"
+		"translation": "Disputando"
 	},
 	{
 		"phrase": "Canister capture",
@@ -202,7 +202,7 @@
 	{
 		"phrase": "Assist counts as kill",
 		"comment": "In-game point text",
-		"translation": "Las asistencias cuentan como asesinatos"
+		"translation": "Asistencia cuenta como asesinato"
 	},
 	{
 		"phrase": "Fortifying",
@@ -212,7 +212,7 @@
 	{
 		"phrase": "Most Valuable Player",
 		"comment": "Medal name",
-		"translation": "El jugador más valioso"
+		"translation": "Jugador Más Valioso"
 	},
 	{
 		"phrase": "Annihilator",
@@ -507,7 +507,7 @@
 	{
 		"phrase": "Choke",
 		"comment": "Barrel attachment name",
-		"translation": "Ahogo"
+		"translation": "Estrangulador"
 	},
 	{
 		"phrase": "Default",
@@ -562,7 +562,7 @@
 	{
 		"phrase": "Buckshot",
 		"comment": "Ammo type name",
-		"translation": "Cartucho de escopeta"
+		"translation": "Perdigones"
 	},
 	{
 		"phrase": "Burst",
@@ -662,7 +662,7 @@
 	{
 		"phrase": "Sniper",
 		"comment": "Weapon category name",
-		"translation": "Francotiradora"
+		"translation": "Francotirador"
 	},
 	{
 		"phrase": "Rifle",
@@ -672,7 +672,7 @@
 	{
 		"phrase": "SMG",
 		"comment": "Weapon category name",
-		"translation": "Metralletas"
+		"translation": "Subfusiles"
 	},
 	{
 		"phrase": "Shotgun",
@@ -872,7 +872,7 @@
 	{
 		"phrase": "Ember",
 		"comment": "Weapon skin name",
-		"translation": "Flama"
+		"translation": "Ascua"
 	},
 	{
 		"phrase": "Grid",
@@ -882,7 +882,7 @@
 	{
 		"phrase": "Building",
 		"comment": "Armour modification name",
-		"translation": "Construyendo"
+		"translation": "Constructor"
 	},
 	{
 		"phrase": "Hydraulics",
